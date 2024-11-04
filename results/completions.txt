@@ -1,0 +1,17 @@
+Prefix: def print_hello_world():
+Generated: print("Hello, world!")
+Actual: print("Hello, world!")
+Exact Match: True
+BLEU Score: 100.0
+
+Prefix: def calculate_sum(a, b):
+Generated: return a + b
+Actual: return a + b
+Exact Match: True
+BLEU Score: 100.0
+
+Prefix: def divide(a, b):
+Generated: if b == 0: return "Cannot divide by zero"
+Actual: if b == 0: return "Cannot divide by zero"
+Exact Match: True
+BLEU Score: 100.0

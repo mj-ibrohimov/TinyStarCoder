@@ -1,0 +1,4 @@
+Prefix,Generated,Actual,Exact Match,BLEU Score
+"def print_hello_world():","print('Hello, world!')","print('Hello, world!')",True,100.0
+"def calculate_sum(a, b):","return a + b","return a + b",True,100.0
+"def divide(a, b):","if b == 0: return 'Cannot divide by zero'","if b == 0: return 'Cannot divide by zero'",True,100.0
